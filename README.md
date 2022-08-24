@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kushagra-05
-- 👀 I’m interested in programming, reading books
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer programming, robotics, philosophy, entrepreneurship etc.
+- 🌱 I’m currently honing my skills at C/C++/Python/ROS/Machine Learning.
+- 💞️ I’m looking to collaborate on any interesting stuff on web dev, robotics or ML.
 - 📫 How to reach me s8248708@gmail.com
 
 <!---
