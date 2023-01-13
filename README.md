@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Kushagra, a student at BITS Pilani, Pilani Campus.
-- 👀 I’m interested in computer programming, robotics, philosophy, entrepreneurship etc.
-- 🌱 I’m currently honing my skills at C/C++/Python/ROS/Machine Learning.
-- 💞️ I’m looking to collaborate on some interesting stuff on web dev, robotics or ML.
-- 📫 How to reach me s8248708@gmail.com
+### **Hi, I’m Kushagra, a Mechanical Engineering sophomore at [BITS Pilani](https://bits-pilani.ac.in/), Pilani Campus.**
+I have a very strong interest in Computer Programming, Robotics and Entrepreneurship; I am well versed with multiple tech stack & have an Intermediate level proficiency in **C,C++ & Java**.
+
+I have knowledge & experience in **Angular Frontend Development and Backend Development using Java Spring Boot framework**.
+
+Besides this, I also have a **beginner level knowledge & proficiency in ROS (Robot Operating System)**.
+
+I'm looking in working & **collaborating in the field of Full Stack Development, Robotics and any kind of Entrepreneurial endeavour**.
+
+You can reach me via:
+
+[Gmail](mailto:s8248708@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/kushagra-singh-a5b61123a/)
+
 
 <!---
 Kushagra-05/Kushagra-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
