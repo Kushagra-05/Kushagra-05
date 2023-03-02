@@ -1,4 +1,4 @@
-### **Hi, I’m Kushagra, a Mechanical Engineering sophomore at [BITS Pilani](https://bits-pilani.ac.in/), Pilani Campus.**
+### **Hi, I’m Kushagra, an Engineering sophomore at [BITS Pilani](https://bits-pilani.ac.in/), Pilani Campus.**
 I have a very strong interest in Computer Programming, Robotics and Entrepreneurship; I am well versed with multiple tech stack & have an Intermediate level proficiency in **C,C++ & Java**.
 
 I have knowledge & experience in **Angular Frontend Development** and **Backend Development using Java Spring Boot framework**.
